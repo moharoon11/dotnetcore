@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/innowave/Projects/Haroon/dotnetcore/MiddlewarePipelineExamples/MiddlewarePipelineExamples.csproj": {}
+    "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/MiddlewarePipelineExamples/MiddlewarePipelineExamples.csproj": {}
   },
   "projects": {
-    "/home/innowave/Projects/Haroon/dotnetcore/MiddlewarePipelineExamples/MiddlewarePipelineExamples.csproj": {
+    "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/MiddlewarePipelineExamples/MiddlewarePipelineExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/innowave/Projects/Haroon/dotnetcore/MiddlewarePipelineExamples/MiddlewarePipelineExamples.csproj",
+        "projectUniqueName": "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/MiddlewarePipelineExamples/MiddlewarePipelineExamples.csproj",
         "projectName": "MiddlewarePipelineExamples",
-        "projectPath": "/home/innowave/Projects/Haroon/dotnetcore/MiddlewarePipelineExamples/MiddlewarePipelineExamples.csproj",
+        "projectPath": "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/MiddlewarePipelineExamples/MiddlewarePipelineExamples.csproj",
         "packagesPath": "/home/innowave/.nuget/packages/",
-        "outputPath": "/home/innowave/Projects/Haroon/dotnetcore/MiddlewarePipelineExamples/obj/",
+        "outputPath": "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/MiddlewarePipelineExamples/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/innowave/.nuget/NuGet/NuGet.Config"

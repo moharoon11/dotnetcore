@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/etKxP4hVTg=",
+  "dgSpecHash": "VthszIHFyYo=",
   "success": true,
-  "projectFilePath": "/home/innowave/Projects/Haroon/dotnetcore/MiddlewarePipelineExamples/MiddlewarePipelineExamples.csproj",
+  "projectFilePath": "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/MiddlewarePipelineExamples/MiddlewarePipelineExamples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

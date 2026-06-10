@@ -7,6 +7,7 @@ namespace MiddlewarePipelineExamples.Components
 
         public static async Task Component1(HttpContext context, RequestDelegate next)
         {
+            context.Response.ContentType = "text/html";
             await context.Response.WriteAsync("1. Middleware Component Started...\n");
 
             await next(context);
@@ -18,7 +19,6 @@ namespace MiddlewarePipelineExamples.Components
         public static async Task Component2(HttpContext context, RequestDelegate next)
         {
             await context.Response.WriteAsync("2. Middleware Component Started...\n");
-
             await next(context);
 
             await context.Response.WriteAsync("2. Middleware Component Finished...\n");
@@ -92,6 +92,15 @@ namespace MiddlewarePipelineExamples.Components
             await context.Response.WriteAsync("7. Middleware component Finished...\n");
         }
 
+        
+        public static void UseEndpointsComponent(IEndpointRouteBuilder endpoints)
+        {
+            endpoints.MapGet("/get_app_details", async (HttpContext context) =>
+            {
+                await context.Response.WriteAsync("This endpoint returns application details...");
+                throw new Exception("Simulated exception in endpoint...");
+            });
+        }
 
 
 

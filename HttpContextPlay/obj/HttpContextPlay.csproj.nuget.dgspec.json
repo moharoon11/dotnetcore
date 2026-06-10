@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/innowave/Projects/Haroon/dotnetcore/HttpContextPlay/HttpContextPlay.csproj": {}
+    "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/HttpContextPlay/HttpContextPlay.csproj": {}
   },
   "projects": {
-    "/home/innowave/Projects/Haroon/dotnetcore/HttpContextPlay/HttpContextPlay.csproj": {
+    "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/HttpContextPlay/HttpContextPlay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/innowave/Projects/Haroon/dotnetcore/HttpContextPlay/HttpContextPlay.csproj",
+        "projectUniqueName": "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/HttpContextPlay/HttpContextPlay.csproj",
         "projectName": "HttpContextPlay",
-        "projectPath": "/home/innowave/Projects/Haroon/dotnetcore/HttpContextPlay/HttpContextPlay.csproj",
+        "projectPath": "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/HttpContextPlay/HttpContextPlay.csproj",
         "packagesPath": "/home/innowave/.nuget/packages/",
-        "outputPath": "/home/innowave/Projects/Haroon/dotnetcore/HttpContextPlay/obj/",
+        "outputPath": "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/HttpContextPlay/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/innowave/.nuget/NuGet/NuGet.Config"

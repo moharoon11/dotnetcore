@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SmzVbjBKypE=",
+  "dgSpecHash": "Al/wHjMlpHY=",
   "success": true,
-  "projectFilePath": "/home/innowave/Projects/Haroon/dotnetcore/HttpContextPlay/HttpContextPlay.csproj",
+  "projectFilePath": "/home/innowave/Projects/Haroon/DotnetProjects/dotnetcore/dotnetcore/HttpContextPlay/HttpContextPlay.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
