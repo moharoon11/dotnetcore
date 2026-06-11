@@ -1,4 +1,41 @@
-bin/
-obj/
+# Build output
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
+**/[Ll]ogs/
+**/artifacts/
+**/TestResults/
+**/publish/
+
+# Debug symbols
 *.pdb
-.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE/editor
+**/.vs/
+**/.vscode/
+**/.idea/
+*.sln.iml
+
+# NuGet artifacts
+*.nupkg
+*.snupkg
+packages/
+!**/packages/build/
+!**/packages/repositories.config
+
+# Coverage
+*.coverage
+*.coveragexml
+**/coverage/
+**/coverage-*/
+
+# OS files
+.DS_Store
+Thumbs.db
