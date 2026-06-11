@@ -1,11 +1,11 @@
 # Build output
-**/[Bb]in/
-**/[Oo]bj/
-**/[Ll]og/
-**/[Ll]ogs/
-**/artifacts/
-**/TestResults/
-**/publish/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+artifacts/
+TestResults/
+publish/
 
 # Debug symbols
 *.pdb
@@ -18,9 +18,9 @@
 *.sln.docstates
 
 # IDE/editor
-**/.vs/
-**/.vscode/
-**/.idea/
+.vs/
+.vscode/
+.idea/
 *.sln.iml
 
 # NuGet artifacts
@@ -33,9 +33,10 @@ packages/
 # Coverage
 *.coverage
 *.coveragexml
-**/coverage/
-**/coverage-*/
+coverage/
+coverage-*/
 
 # OS files
 .DS_Store
 Thumbs.db
+
